@@ -64,7 +64,7 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google15.png "Help Image 15")
 
-18. A private key has been downloaded to your computer. Upload it to your Jupyter Environment. Then save your Service Account.
+18. A private key is downloaded to your computer. Upload it to your Jupyter Environment. Then save your Service Account.
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google16.png "Help Image 16")
 
