@@ -11,3 +11,11 @@
 4. A pop up will open. On the top right of pop up, click on "New Project"
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google2.png "Help Image 2")
+
+5. Give a project name as shown in the image and click "Create"
+
+![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google3.png "Help Image 3")
+
+6. Browser will automatically take you back to the next screen. Choose your project from the drop down at the top. Similar to point no 3.
+
+![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google4.png "Help Image 4")
