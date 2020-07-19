@@ -16,11 +16,11 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google3.png "Help Image 3")
 
-6. Browser will automatically take you back to the next screen. Choose your project from the drop down at the top. And click on "Enable API and Services".
+6. Browser will automatically take you back to the next screen. Choose your project from the drop down at the top. And click on "Enable APIS and Services".
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google4.png "Help Image 4")
 
-7. Search for "Google Sheets API"
+7. Search for "Google Sheets API" and click on it. Browser will take you to next screen.
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google5.png "Help Image 5")
 
@@ -31,3 +31,7 @@
 9. Browser will take you back to the next screen. Click on "Credentials" from the left menu.
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google7.png "Help Image 7")
+
+10. Click on "Create Credentials" from the top menu and then "Service Account".
+
+![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google8.png "Help Image 8")
