@@ -88,7 +88,7 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google21.png "Help Image 21")
 
-===========================Enjoy===========================
+Hope you enjoyed this project !
 
 #### As an optional steps, you can do following to update your Google Sheet data regularly using Raspberry Pi / ESP82266 and DHT 22 Sensor
 
