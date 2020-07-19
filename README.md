@@ -90,5 +90,5 @@
 
 Hope you enjoyed this project !
 
-#### As an optional steps, you can do following to update your Google Sheet data regularly using Raspberry Pi / ESP82266 and DHT 22 Sensor
+#### As an optional steps, you can do following to update your Google Sheet data regularly using Raspberry Pi / ESP82266 and DHT22 Sensor
 
