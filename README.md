@@ -16,6 +16,6 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google3.png "Help Image 3")
 
-6. Browser will automatically take you back to the next screen. Choose your project from the drop down at the top. Similar to point no 3.
+6. Browser will automatically take you back to the next screen. Choose your project from the drop down at the top. And click on "Enable API and Services".
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google4.png "Help Image 4")
