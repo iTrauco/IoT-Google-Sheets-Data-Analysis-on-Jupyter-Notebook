@@ -52,7 +52,7 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google12.png "Help Image 12")
 
-15. Click on your service account.
+15. Note down the "Email" value and then "Click" on the email value. We will use the email value later. Don't worry if you don't note it. you can always copy it later. 
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google13.png "Help Image 13")
 
@@ -68,10 +68,27 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google16.png "Help Image 16")
 
-19. Go to ![Google Drive](https://drive.google.com) and make a spreadsheet. Create 2 columns, "Temperature" and "Humidity". Fill your data and then copy the spreadsheet id.
+19. Click on Save at the bottom. Then click on "Back" button at the top. We are done with this !
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google17.png "Help Image 17")
 
-20. Insert the spreadsheet id and the path to your private key file.
+20. Go to ![Google Drive](https://drive.google.com) and make a spreadsheet. Create 2 columns, "Temperature" and "Humidity". Fill your data and then copy the spreadsheet id.
+
+21. Get your spread sheet id
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google18.png "Help Image 18")
+
+22. Click on "File" -> "Share" and share it with your service account email
+
+![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google19.png "Help Image 19")
+
+![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google20.png "Help Image 20")
+
+23. Make following changes in your code and execute your code.
+
+![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google21.png "Help Image 21")
+
+===========================Enjoy========================
+
+## As an optional steps, you can do following to update your Google Sheet data regularly using Raspberry Pi / ESP82266 and DHT 22 Sensor
+
