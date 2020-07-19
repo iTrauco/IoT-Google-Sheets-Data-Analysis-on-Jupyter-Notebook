@@ -64,15 +64,15 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google15.png "Help Image 15")
 
-18. A private key is downloaded to your computer. Upload it to your Jupyter Environment/ save it in the same folder where your notebook is. Then save your Service Account.
+18. A private key is downloaded to your computer. Upload it to your Jupyter Environment/ save it in the same folder where your notebook is. 
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google16.png "Help Image 16")
 
-19. Click on Save at the bottom. Then click on "Back" button at the top. We are done with this !
+19. Click on Save at the bottom. Then click on "Back" button at the top.
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google17.png "Help Image 17")
 
-20. Go to ![Google Drive](https://drive.google.com) and make a spreadsheet. Create 2 columns, "Temperature" and "Humidity". Fill your data and then copy the spreadsheet id.
+20. Go to ![Google Drive](https://drive.google.com) and make a spreadsheet. Create 2 columns, "Temperature" and "Humidity". Fill your data.
 
 21. Get your spread sheet id
 
@@ -88,7 +88,7 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google21.png "Help Image 21")
 
-===========================Enjoy========================
+===========================Enjoy===========================
 
-## As an optional steps, you can do following to update your Google Sheet data regularly using Raspberry Pi / ESP82266 and DHT 22 Sensor
+#### As an optional steps, you can do following to update your Google Sheet data regularly using Raspberry Pi / ESP82266 and DHT 22 Sensor
 
