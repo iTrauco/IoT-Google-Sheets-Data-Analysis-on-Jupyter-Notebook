@@ -32,6 +32,10 @@
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google7.png "Help Image 7")
 
-10. Click on "Create Credentials" from the top menu and then "Service Account".
+10. On the next screen, Click on "Create Credentials" from the top menu and then "Service Account".
 
 ![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google8.png "Help Image 8")
+
+11. Give a name to the "Service Account". Click Create.
+
+![alt text](https://github.com/techtutorials/IoT-Google-Sheets-Data-Analysis-on-Jupyter-Notebook/blob/master/images/google9.png "Help Image 9")
